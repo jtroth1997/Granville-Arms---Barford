@@ -1,18 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 820" role="img" aria-labelledby="title desc">
-  <title id="title">The Granville country pub and restaurant, Barford</title>
-  <desc id="desc">The Granville heraldic crest with the name Granville set boldly across it, matching the pub's iconic sign.</desc>
-  <defs>
-    <path id="country-arc" d="M 245 185 Q 500 45 755 185" fill="none"/>
-  </defs>
-  <g fill="#18221f">
-    <text font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="400" letter-spacing="14">
-      <textPath href="#country-arc" startOffset="50%" text-anchor="middle">COUNTRY PUB</textPath>
-    </text>
-    <image href="granville-crest-base.png" x="315" y="105" width="370" height="530" opacity=".32" preserveAspectRatio="xMidYMid meet"/>
-    <text x="500" y="430" text-anchor="middle" font-family="Rockwell, 'Roboto Slab', Georgia, serif" font-size="176" font-weight="900" letter-spacing="-5" textLength="930" lengthAdjust="spacingAndGlyphs">GRANVILLE</text>
-    <text x="500" y="550" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="400" letter-spacing="15">&amp; RESTAURANT</text>
-    <path d="M330 607h340" fill="none" stroke="#18221f" stroke-width="4"/>
-    <text x="500" y="685" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="51" font-weight="700" letter-spacing="16">BARFORD</text>
-    <path d="M175 740h650" fill="none" stroke="#18221f" stroke-width="4"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1120" role="img" aria-labelledby="title desc">
+  <title id="title">The Granville crest</title>
+  <desc id="desc">The historic Granville heraldic crest with the name Granville set boldly and horizontally across its centre.</desc>
+  <image href="granville-crest-base.png" x="190" y="15" width="620" height="1010" opacity=".42" preserveAspectRatio="xMidYMid meet"/>
+  <text x="500" y="585" fill="#18221f" text-anchor="middle" font-family="Rockwell, 'Roboto Slab', Georgia, serif" font-size="190" font-weight="900" letter-spacing="-6" textLength="970" lengthAdjust="spacingAndGlyphs">GRANVILLE</text>
 </svg>
